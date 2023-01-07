@@ -1,0 +1,10 @@
+El resultado de 3 * 1 es: 3
+El resultado de 3 * 2 es: 6
+El resultado de 3 * 3 es: 9
+El resultado de 3 * 4 es: 12
+El resultado de 3 * 5 es: 15
+El resultado de 3 * 6 es: 18
+El resultado de 3 * 7 es: 21
+El resultado de 3 * 8 es: 24
+El resultado de 3 * 9 es: 27
+El resultado de 3 * 10 es: 30
